@@ -1,6 +1,7 @@
 # Tokenizer
 
 Lexical Analysis - The First Stage of a Compiler.
+
 A lexer to break a stream of text into tokens that can be processed by a parser at a later stage to generate an AST (Syntax Analysis).
 
 ## Supported Programming Languages
