@@ -1,6 +1,6 @@
 # Tokenizer
 
-Lexical Analysis - The First Stage of a Compiler.
+####### Lexical Analysis - The First Stage of a Compiler.
 
 A lexer to break a stream of text into tokens that can be processed by a parser at a later stage to generate an AST (Syntax Analysis).
 
@@ -14,9 +14,9 @@ A lexer to break a stream of text into tokens that can be processed by a parser 
 
 ## Built With
 
-* [Visual Studio 2017](https://visualstudio.microsoft.com/vs/older-downloads/) - The IDE used
-* [.NET Framework 4.5]
-* [C#]
+* [Visual Studio 2017](https://visualstudio.microsoft.com/vs/older-downloads/)
+* .NET Framework 4.5
+* C#
 
 ## Versioning
 
@@ -26,7 +26,6 @@ v1.0
 
 * **Kyle McPherson** - [Kalzeo](https://github.com/Kalzeo)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
 ## License
 
